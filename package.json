@@ -1,0 +1,14 @@
+{
+  "name": "babel-typescript-const",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.4.3",
+    "@babel/core": "^7.4.3",
+    "@babel/preset-typescript": "^7.3.3"
+  },
+  "scripts": {
+    "start": "babel index.ts"
+  }
+}
