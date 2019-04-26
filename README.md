@@ -33,4 +33,4 @@ yarn install
 yarn start
 ```
 
-You can comment examples on the top to see the bottom examples failing.
+You can comment examples on the top to see the bottom examples failing on `index.ts`.
